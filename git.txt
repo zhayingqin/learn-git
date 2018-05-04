@@ -6,3 +6,5 @@ Thanks everyone who ever helped me.
 I have changed the file for the first time.
 Why I can't use git status?
 Now you can use git.
+Wow thats amazing.
+My stupid boss still prefers svn
