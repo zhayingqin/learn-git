@@ -4,3 +4,4 @@ Thanks him very much.
 Thanks everybody with their kind-hearted.
 Thanks everyone who ever helped me.
 I have changed the file for the first time.
+Why I can't use git status?
