@@ -1,5 +1,6 @@
 Learn how to use git is a very exciting thing.
-Thanks to my classmate *** who gave me the course which he found on internet.
+Thanks to my classmate xuxiaofeng who gave me the course which he found on internet.
 Thanks him very much.
 Thanks everybody with their kind-hearted.
 Thanks everyone who ever helped me.
+I have changed the file for the first time.
